@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 <!-- Profile views -->
-![profile views](https://komarev.com/ghpvc/?username=hsinhanlin&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
+![profile views](https://komarev.com/ghpvc/?username=hsinhandev&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
 
 
 <!-- stats -->
