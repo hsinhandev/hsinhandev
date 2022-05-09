@@ -1,5 +1,5 @@
 <h1>Hi there! ✨</h1>
-<p>I am Hsinhan Lin, another Creative developer based in Brussels. I focus on 📦 JavaScript / React for interactive and e-commerce(shopify) websites.</p>
+<p>I am a Data engineer with experience in web development.</p>
 <br>
 
 <!-- Social media -->
