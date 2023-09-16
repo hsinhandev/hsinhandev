@@ -1,5 +1,5 @@
 <h1>Hi there! ✨</h1>
-<p>I am a Data engineer with experience in web development.</p>
+<p>I am a Python engineer with experience in web development.</p>
 <br>
 
 <!-- Social media -->
@@ -14,10 +14,10 @@
 <br>
 
 <!-- Skill set -->
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node](https://img.shields.io/badge/-Node-000?&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Python](https://img.shields.io/badge/Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C#](https://img.shields.io/badge/-c%23-000.svg?&logo=c-sharp)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind-css)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
