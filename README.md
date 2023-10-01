@@ -27,12 +27,6 @@
 ![profile views](https://komarev.com/ghpvc/?username=hsinhandev&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
 
 
-<!-- stats -->
-<div>
- <img height="180em"  style="display: inline; width:50%;" src="https://github-readme-stats.vercel.app/api?username=hsinhandev&show_icons=true&theme=dark">
- <img height="180em"  style="display: inline; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsinhandev&layout=compact&theme=dark">
-</div>
-
 <br>
 <br>
 <br>
